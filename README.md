@@ -1,5 +1,5 @@
 # Project Name
-Getting it together - Second attempt at Week 2 Class Build
+GIT IT 2GETHER - Second attempt at Week 2 Class Build
 
 # Project Description
 Week 2 class build for MMED-1054, walking through the creation and initial working with a GitHub.
